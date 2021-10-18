@@ -2,4 +2,4 @@
 
 Contributors:
 [Thomas Doukas](https://github.com/ThomasDoukas)
-Nikolas Zervas
+[Nikolas Zervas](https://github.com/nickzpower)
